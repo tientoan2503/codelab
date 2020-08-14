@@ -26,7 +26,7 @@
     </system>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1g5pgHPcHH5VqChFjtmRZcrYWLg" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -39,6 +39,7 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../android-fundamentals-starter-apps-v2/HelloSharedPrefs" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
   <component name="RunManager">
@@ -113,5 +114,11 @@
       <updated>1597414416603</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="489" y="155" key="FileChooserDialogImpl" timestamp="1597418714992">
+      <screen x="54" y="27" width="1312" height="741" />
+    </state>
+    <state x="489" y="155" key="FileChooserDialogImpl/54.27.1312.741@54.27.1312.741" timestamp="1597418714992" />
   </component>
 </project>
